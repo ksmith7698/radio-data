@@ -2154,6 +2154,9 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 21,DV Simplex,USA,Simplex,,,443.45,OFF,0,DV,OFF,,YES,None,0,0,--:--
 21,DV Simplex,USA,Simplex,,,446.075,OFF,0,DV,OFF,,YES,None,0,0,--:--
 21,DV Simplex,USA,Simplex,,,446.5,OFF,0,DV,OFF,,YES,None,0,0,--:--
+22,FM Maryland,Columbia,CARA 2m,K3CUJ,,147.135,DUP+,0.6,FM,TONE,156.7Hz,YES,Approximate,39.2128,-76.8783,-5:00
+22,FM Maryland,Columbia,CARA 70c,K3CUJ,,449.475,DUP-,5,FM,TONE,156.7Hz,YES,Approximate,39.2128,-76.8783,-5:00
+22,FM Maryland,Cooksville,CARA 2m,K3CUJ,,147.39,DUP+,0.6,FM,TONE,156.7Hz,YES,Approximate,39.318,-77.0256,-5:00
 23,FM California,San Francisco,SF ARC,W6PW,,145.15,DUP-,0.6,FM,OFF,,YES,Approximate,37.73816,-122.4533,-8:00
 24,FM Oregon,Sherwood,WORC 2m,KR7IS/R,,147.47,DUP-,0.6,FM,TONE,107.2Hz,YES,Approximate,45.33,-122.83,-8:00
 24,FM Oregon,Timber,WORC 2m,KJ7IY/R,,145.27,DUP-,0.6,FM,TONE,107.2Hz,YES,Approximate,45.72,-123.3,-8:00
