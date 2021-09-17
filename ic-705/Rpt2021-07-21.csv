@@ -2036,9 +2036,9 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 20,USA West,San Bernardino,Californ,KI6WZX B,KI6WZX G,446.34,DUP-,5,DV,,,YES,Approximate,34.2,-117.04,-8:00
 20,USA West,San Diego,Californ,KI6KQU B,KI6KQU G,147.57,DUP-,2.555,DV,,,YES,Approximate,33.01,-116.97,-8:00
 20,USA West,San Diego,Californ,KW6HRO B,KW6HRO G,446.98,DUP-,5,DV,,,YES,Approximate,32.6,-116.84,-8:00
-20,USA West,San Jose,Californ,WW6BAY B,WW6BAY G,444.075,DUP+,5,DV,,,YES,Approximate,37.3,-122.1,-8:00
 20,USA West,San Francisco,Californ,W6PW   B,W6PW   G,444.1625,DUP+,5,DV,,,YES,Exact,37.7827,-122.5052,-8:00
 20,USA West,San Francisco,Californ,W6PW   C,W6PW   G,147.105,DUP+,0.6,DV,,,YES,Exact,37.7827,-122.5052,-8:00
+20,USA West,San Jose,Californ,WW6BAY B,WW6BAY G,444.075,DUP+,5,DV,,,YES,Approximate,37.3,-122.1,-8:00
 20,USA West,San Leandro,Californ,AC6SO  B,AC6SO  G,440.025,DUP+,5,DV,OFF,,YES,Approximate,37.72367,-122.11867,-8:00
 20,USA West,Santa Cruz,Californ,K6DRI  C,K6DRI  G,145,DUP+,2.5,DV,,,YES,Approximate,37.17,-122.04,-8:00
 20,USA West,Santa Rosa,Californ,K6ACS  B,K6ACS  G,442.1125,DUP+,5,DV,,,YES,Approximate,38.5,-122.72,-8:00
