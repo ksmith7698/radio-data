@@ -2158,6 +2158,7 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 22,FM Maryland,Columbia,CARA 2m,K3CUJ,,147.135,DUP+,0.6,FM,TONE,156.7Hz,YES,Approximate,39.2128,-76.8783,-5:00
 22,FM Maryland,Columbia,CARA 70c,K3CUJ,,449.475,DUP-,5,FM,TONE,156.7Hz,YES,Approximate,39.2128,-76.8783,-5:00
 22,FM Maryland,Cooksville,CARA 2m,K3CUJ,,147.39,DUP+,0.6,FM,TONE,156.7Hz,YES,Approximate,39.318,-77.0256,-5:00
+23,FM California,Pacifica,Coast ARC,WA6TOW,,146.925,DUP-,0.6,FM,TONE,114.8Hz,YES,Exact,37.5613,-122.4777,-8:00
 23,FM California,San Francisco,SF ARC,W6PW,,145.15,DUP-,0.6,FM,OFF,,YES,Exact,37.7553,-122.4527,-8:00
 24,FM Oregon,Sherwood,WORC 2m,KR7IS/R,,147.47,DUP-,0.6,FM,TONE,107.2Hz,YES,Approximate,45.33,-122.83,-8:00
 24,FM Oregon,Timber,WORC 2m,KJ7IY/R,,145.27,DUP-,0.6,FM,TONE,107.2Hz,YES,Approximate,45.72,-123.3,-8:00
@@ -2173,3 +2174,4 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 24,FM Oregon,Chehalem Ridge,ARRG 70c,K7RPT,,443.75,DUP+,5,FM,TONE,100.0Hz,YES,Approximate,45.44,-123.06,-8:00
 24,FM Oregon,Willsonville,ARRG 70c,K7RPT,,444.4,DUP+,5,FM,TONE,100.0Hz,YES,Approximate,45.31,-122.77,-8:00
 24,FM Oregon,Portland,Or Rptr,W7EXH,,143.31,DUP+,0.6,FM,TONE,123.0Hz,YES,Approximate,45.516317,-122.73355,-8:00
+24,FM Oregon,Newport ,OCRG,W7VTW,,145.37,DUP+,0.6,FM,TONE,167.9Hz,YES,Approximate,44.7564,-124.0503,-8:00
