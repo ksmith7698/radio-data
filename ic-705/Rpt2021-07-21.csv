@@ -2158,7 +2158,11 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 22,FM Maryland,Columbia,CARA 2m,K3CUJ,,147.135,DUP+,0.6,FM,TONE,156.7Hz,YES,Approximate,39.2128,-76.8783,-5:00
 22,FM Maryland,Columbia,CARA 70c,K3CUJ,,449.475,DUP-,5,FM,TONE,156.7Hz,YES,Approximate,39.2128,-76.8783,-5:00
 22,FM Maryland,Cooksville,CARA 2m,K3CUJ,,147.39,DUP+,0.6,FM,TONE,156.7Hz,YES,Approximate,39.318,-77.0256,-5:00
+23,FM California,Mt Tamalpais,Marin ARS,K6GWE,,146.7,DUP-,0.6,FM,TONE,179.9Hz,YES,Approximate,37.9277,-122.5784,-8:00
+23,FM California,Mt Tamalpais,Marin ARS,K6GWE,,147.33,DUP+,0.6,FM,TONE,192.8Hz,YES,Exact,37.9271,-122.5885,-8:00
+23,FM California,Mt Tamalpais,Marin ARS,K6GWE,,443.25,DUP+,5,FM,TONE,179.9Hz,YES,Exact,37.9271,-122.5885,-8:00
 23,FM California,Pacifica,Coast ARC,WA6TOW,,146.925,DUP-,0.6,FM,TONE,114.8Hz,YES,Exact,37.5613,-122.4777,-8:00
+23,FM California,Oakland,CaRLA,K6LNK,,146.85,DUP-,0.6,FM,TONE,162.2Hz,YES,Approximate,37.8501,-122.1926,-8:00
 23,FM California,San Francisco,SF ARC,W6PW,,145.15,DUP-,0.6,FM,OFF,,YES,Exact,37.7553,-122.4527,-8:00
 24,FM Oregon,Sherwood,WORC 2m,KR7IS/R,,147.47,DUP-,0.6,FM,TONE,107.2Hz,YES,Approximate,45.33,-122.83,-8:00
 24,FM Oregon,Timber,WORC 2m,KJ7IY/R,,145.27,DUP-,0.6,FM,TONE,107.2Hz,YES,Approximate,45.72,-123.3,-8:00
