@@ -2179,3 +2179,5 @@ Group No,Group Name,Name,Sub Name,Repeater Call Sign,Gateway Call Sign,Frequency
 24,FM Oregon,Willsonville,ARRG 70c,K7RPT,,444.4,DUP+,5,FM,TONE,100.0Hz,YES,Approximate,45.31,-122.77,-8:00
 24,FM Oregon,Portland,Or Rptr,W7EXH,,143.31,DUP+,0.6,FM,TONE,123.0Hz,YES,Approximate,45.516317,-122.73355,-8:00
 24,FM Oregon,Newport ,OCRG,W7VTW,,145.37,DUP+,0.6,FM,TONE,167.9Hz,YES,Approximate,44.7564,-124.0503,-8:00
+25,FM Pennsylvania,Williamsport,Bald Eagle,KB3AWQ,,444.9,DUP+,5,FM,TONE,173.8Hz,YES,Exact,41.2035,-76.964,-5:00
+25,FM Pennsylvania,Williamsport,WAHS,W3AHS,,147.3,DUP+,0.6,FM,TONE,151.4Hz,YES,Exact,41.24167,-77.073,-5:00
